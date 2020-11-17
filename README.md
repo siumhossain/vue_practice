@@ -4,4 +4,4 @@
 <br>
 **just drag `index.html` file on any browser and you can see the result**
 > output
-[!screenshot](/out_put.png)
+![screenshot](out_put.png)
